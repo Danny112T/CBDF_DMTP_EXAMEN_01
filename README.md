@@ -5,3 +5,4 @@
 
 ## Render
 Se puede acceder a la API - Endpoint desde el siguiente link:
+https://cbdf-dmtp-examen-01.onrender.com/reservaciones
